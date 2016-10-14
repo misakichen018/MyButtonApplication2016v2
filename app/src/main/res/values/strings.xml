@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyButtonApp</string>
+    <string name="textLabel">Hello world!ShijiaChen is here!</string>
+    <string name="buttonLabel">Click me!</string>
+</resources>
